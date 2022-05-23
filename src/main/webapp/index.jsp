@@ -56,7 +56,7 @@
 <p>If you need any help the <strong><a href="http://boxfuse.com/docs">documentation</a></strong> is there for you,<br/>or simply shoot us an email at <a href="mailto:support@boxfuse.com">support@boxfuse.com</a></p>
 
 <p>Say goodbye to snowflake servers.</p>
-<p><strong>Welcome to Medsys Application Bhuabneswar! Welcom Welcom Welcome!</strong></p>
+<p><strong>Welcome to Medsys Application Bhuabneswar! Welcome Welcome Welcome!</strong></p>
 <% } %>
 </body>
 </html>
